@@ -1,0 +1,2 @@
+export const GETCREDENTIALS = "GETCREDENTIALS";
+export const GETDATA = "GETDATA";
